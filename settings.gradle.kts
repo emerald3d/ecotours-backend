@@ -1,0 +1,1 @@
+rootProject.name = "space.ecotours.ecotours-backend"
